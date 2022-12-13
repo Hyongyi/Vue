@@ -1,24 +1,5 @@
 # vuedongsan
 
-## Project setup
-```
-yarn install
-```
+Vue 공부 겸 만들어본 직방 클론 코딩
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+참조 youtube '코딩애플'
